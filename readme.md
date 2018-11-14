@@ -1,3 +1,8 @@
+## About the codes 
+
+This sample code will help you create your own RESTful API using Laravel 5. 
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
